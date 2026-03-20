@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.InputSystem;
 
-public class PlayerController : MonoBehaviour
+public class PlayerControllerExam02 : MonoBehaviour
 {
     public float jumpForce;
     public float gravityModifier;
